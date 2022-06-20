@@ -2,11 +2,11 @@
 
 Final-year PhD Student at Aarhus University (Thesis due May 2023), fully emerged in research on __Deep Learning__, __inference acceleration__ and __Transfer Learning__ applied to Computer Vision and Natural Language Processing.
 
-<div align="center">
+<!-- <div align="center">
     <img src="demo-online-activity-recognition.gif">
-</div>
+</div> -->
 
-Apart from doing ML research projects (like real-time Human Activity Recognition using [CoX3D](https://github.com/LukasHedegaard/co3d) ☝️), I like to package up code nicely and open-source whenever it may be of value. 
+Apart from doing ML research projects (like real-time Human Activity Recognition using [CoX3D](https://github.com/LukasHedegaard/co3d) ☝️), I like to package code up nicely and open-source whenever it may be of value. 
 __Open-source__ libraries include: 
 - [Continual Inference](https://github.com/LukasHedegaard/continual-inference) [🐍, C++] ![downloads](https://pepy.tech/badge/continual-inference) - _Building blocks for Continual Inference Networks in PyTorch._
 - [Ride](https://github.com/LukasHedegaard/ride) [🐍] ![downloads](https://pepy.tech/badge/ride)  - _Training wheels, side rails, and helicopter parent for your Deep Learning projects in PyTorch._

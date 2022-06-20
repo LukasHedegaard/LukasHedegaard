@@ -2,9 +2,9 @@
 
 Final-year PhD Student at Aarhus University (Thesis due May 2023), fully emerged in research on __Deep Learning__, __inference acceleration__ and __Transfer Learning__ applied to Computer Vision and Natural Language Processing.
 
-<!-- <div align="center">
+<div align="center">
     <img src="demo-online-activity-recognition.gif">
-</div> -->
+</div>
 
 Apart from doing ML research projects (like real-time Human Activity Recognition using [CoX3D](https://github.com/LukasHedegaard/co3d) ☝️), I like to package code up nicely and open-source whenever it may be of value. 
 __Open-source__ libraries include: 

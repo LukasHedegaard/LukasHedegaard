@@ -22,5 +22,5 @@ __Open-source__ libraries include:
 ## Find me 🌐
 - ![LinkedIn](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/lukashedegaard/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=15ovcOoAAAAJ&hl=en)
-- 📧 [Email](mailto:lukas.hedegaard@icloud.com)
+- 📫 [Email](mailto:lukas.hedegaard@icloud.com)
 - 🌍 [Aarhus, Denmark](https://www.google.com/maps?q=Aarhus,+Denmark)

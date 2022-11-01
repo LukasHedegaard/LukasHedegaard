@@ -1,6 +1,6 @@
 ## Hi, I'm Lukas 👋
 
-Final-year PhD Student at Aarhus University (Thesis due May 2023), fully emerged in research on __Deep Learning__, __inference acceleration__ and __Transfer Learning__ applied to Computer Vision and Natural Language Processing.
+Last year PhD Student at Aarhus University (Thesis due May 2023), emerged in research on __Deep Learning__, __inference acceleration__ and __Transfer Learning__ applied to Computer Vision and Natural Language Processing.
 
 <div align="center">
     <img src="demo-online-activity-recognition.gif">

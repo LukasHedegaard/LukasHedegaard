@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas Hedegaard
 
-Final-year PhD Student at [Aarhus University, Denmark](https://pure.au.dk/portal/en/persons/lukas-hedegaard-morsing(72464ed9-42d0-4796-bd91-833f85e689fc).html) (Thesis due Jun 2023) researching __Deep Learning__, __network acceleration__ and __Transfer Learning__ applied to _Computer Vision_ and _Natural Language Processing_. Recent works include:
+PostDoc at [Aarhus University, Denmark](https://pure.au.dk/portal/en/persons/lukas-hedegaard-morsing(72464ed9-42d0-4796-bd91-833f85e689fc).html) researching __Deep Learning__, __network acceleration__ and __Transfer Learning__ applied to _Computer Vision_ and _Natural Language Processing_. Recent works include:
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2203.11009-B31B1B.svg)](https://arxiv.org/abs/2203.11009) [Hedegaard et al.: "Continual Spatio-Temporal Graph Convolutional Networks](https://github.com/LukasHedegaard/continual-skeletons) (Pattern Recognition, 2023)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2201.06268-B31B1B.svg)](http://arxiv.org/abs/2201.06268) [Hedegaard et al.: "Continual Transformers: Redundancy-Free Attention for Online Inference"](https://github.com/LukasHedegaard/continual-transformers) (ICLR, 2023)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2106.00050-B31B1B.svg)](https://arxiv.org/abs/2106.00050) [Hedegaard & Iosifidis: "Continual 3D Convolutional Neural Networks for Real-time Processing of Videos"](https://github.com/LukasHedegaard/co3d) (ECCV, 2022)

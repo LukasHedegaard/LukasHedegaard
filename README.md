@@ -9,7 +9,7 @@ PostDoc at [Aarhus University, Denmark](https://pure.au.dk/portal/en/persons/luk
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2003.04063-B31B1B.svg)](https://arxiv.org/abs/2003.04063) [Hedegaard et al.: "Supervised Domain Adaptation using Graph Embedding"](https://github.com/LukasHedegaard/dage) (ICPR, 2021)
 - [![Paper](http://img.shields.io/badge/Elsevier-Chapter4-FE6C02.svg)](https://www.sciencedirect.com/book/9780323857871/deep-learning-for-robot-perception-and-cognition) [Heidari et al.: "Graph Convolutional Networks"](https://www.sciencedirect.com/science/article/pii/B9780323857871000099) (Deep Learning for Robot Perception and Cognition, 2022)
 - [![Paper](http://img.shields.io/badge/Elsevier-Chapter14-FE6C02.svg)](https://www.sciencedirect.com/book/9780323857871/deep-learning-for-robot-perception-and-cognition) [Hedegaard et al.: "Human Activity Recognition"](https://www.sciencedirect.com/science/article/pii/B9780323857871000191) (Deep Learning for Robot Perception and Cognition, 2022)
-- [![Paper](http://img.shields.io/badge/paper-arxiv.2211.10155-B31B1B.svg)](https://arxiv.org/abs/2211.10155) [Hedegaard et al.: "Structured Pruning Adapters"](https://github.com/LukasHedegaard/structured-pruning-adapters) (prepint, 2022)
+- [![Paper](http://img.shields.io/badge/paper-arxiv.2211.10155-B31B1B.svg)](https://arxiv.org/abs/2211.10155) [Hedegaard et al.: "Structured Pruning Adapters"](https://github.com/LukasHedegaard/structured-pruning-adapters) (preprint, 2023)
 
 
 <div align="center">

@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Lukas Hedegaard
 
-PostDoc at [Aarhus University, Denmark](https://pure.au.dk/portal/en/persons/lukas-hedegaard-morsing(72464ed9-42d0-4796-bd91-833f85e689fc).html) researching __Deep Learning__, __network acceleration__ and __Transfer Learning__ applied to _Computer Vision_ and _Natural Language Processing_. Recent works include:
+ML Engineer at InCommodities, with a research background in __Deep Learning__, __network acceleration__ and __Transfer Learning__ applied to _Computer Vision_ and _Natural Language Processing_. Recent works include:
+- [![Paper](http://img.shields.io/badge/paper-arxiv.2211.10155-B31B1B.svg)](https://arxiv.org/abs/2211.10155) [Hedegaard et al.: "Structured Pruning Adapters"](https://github.com/LukasHedegaard/structured-pruning-adapters) (Pattern Recognition, 2024)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2203.11009-B31B1B.svg)](https://arxiv.org/abs/2203.11009) [Hedegaard et al.: "Continual Spatio-Temporal Graph Convolutional Networks](https://github.com/LukasHedegaard/continual-skeletons) (Pattern Recognition, 2023)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2201.06268-B31B1B.svg)](http://arxiv.org/abs/2201.06268) [Hedegaard et al.: "Continual Transformers: Redundancy-Free Attention for Online Inference"](https://github.com/LukasHedegaard/continual-transformers) (ICLR, 2023)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2106.00050-B31B1B.svg)](https://arxiv.org/abs/2106.00050) [Hedegaard & Iosifidis: "Continual 3D Convolutional Neural Networks for Real-time Processing of Videos"](https://github.com/LukasHedegaard/co3d) (ECCV, 2022)
@@ -9,7 +10,6 @@ PostDoc at [Aarhus University, Denmark](https://pure.au.dk/portal/en/persons/luk
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2003.04063-B31B1B.svg)](https://arxiv.org/abs/2003.04063) [Hedegaard et al.: "Supervised Domain Adaptation using Graph Embedding"](https://github.com/LukasHedegaard/dage) (ICPR, 2021)
 - [![Paper](http://img.shields.io/badge/Elsevier-Chapter4-FE6C02.svg)](https://www.sciencedirect.com/book/9780323857871/deep-learning-for-robot-perception-and-cognition) [Heidari et al.: "Graph Convolutional Networks"](https://www.sciencedirect.com/science/article/pii/B9780323857871000099) (Deep Learning for Robot Perception and Cognition, 2022)
 - [![Paper](http://img.shields.io/badge/Elsevier-Chapter14-FE6C02.svg)](https://www.sciencedirect.com/book/9780323857871/deep-learning-for-robot-perception-and-cognition) [Hedegaard et al.: "Human Activity Recognition"](https://www.sciencedirect.com/science/article/pii/B9780323857871000191) (Deep Learning for Robot Perception and Cognition, 2022)
-- [![Paper](http://img.shields.io/badge/paper-arxiv.2211.10155-B31B1B.svg)](https://arxiv.org/abs/2211.10155) [Hedegaard et al.: "Structured Pruning Adapters"](https://github.com/LukasHedegaard/structured-pruning-adapters) (preprint, 2023)
 
 
 <div align="center">

@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas Hedegaard
 
-ML Engineer at InCommodities, with a research background in __Deep Learning__, __network acceleration__ and __Transfer Learning__ applied to _Computer Vision_ and _Natural Language Processing_. Recent works include:
+ML Engineer at InCommodities, with a research background in __Deep Learning__, __network acceleration__ and __Transfer Learning__. Academic works include:
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2211.10155-B31B1B.svg)](https://arxiv.org/abs/2211.10155) [Hedegaard et al.: "Structured Pruning Adapters"](https://github.com/LukasHedegaard/structured-pruning-adapters) (Pattern Recognition, 2024)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2203.11009-B31B1B.svg)](https://arxiv.org/abs/2203.11009) [Hedegaard et al.: "Continual Spatio-Temporal Graph Convolutional Networks](https://github.com/LukasHedegaard/continual-skeletons) (Pattern Recognition, 2023)
 - [![Paper](http://img.shields.io/badge/paper-arxiv.2201.06268-B31B1B.svg)](http://arxiv.org/abs/2201.06268) [Hedegaard et al.: "Continual Transformers: Redundancy-Free Attention for Online Inference"](https://github.com/LukasHedegaard/continual-transformers) (ICLR, 2023)
